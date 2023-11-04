@@ -1,0 +1,14 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./$npm_config_folder/index.js",
+    "help": "echo 'npm start --folder=folder_name' to execute a solution && echo npm run list to see the list of folders",
+    "list": "echo challenge_01"
+  },
+  "keywords": [],
+  "author": "Cobas",
+  "license": "ISC"
+}
